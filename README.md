@@ -1,0 +1,2 @@
+# BashStudy
+bash study notes
