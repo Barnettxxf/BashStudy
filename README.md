@@ -12,9 +12,7 @@
 ## 基本运算符
  - `lesson_3.*.sh`
  - 算术运算符
-   - ```bash
-var=`expr $a +/-/*/\/ $b`
-```
+   - var=`expr $a +/-/*/\/ $b`
  - 关系运算符
    - `-eq`: equal
    - `-ne`: no equal
